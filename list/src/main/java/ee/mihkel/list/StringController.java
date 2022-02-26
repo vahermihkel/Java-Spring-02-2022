@@ -9,7 +9,7 @@ import java.util.Arrays;
 import java.util.List;
 
 @RestController // RestController alati classi peal (annotation)
-public class ApiOtsad {
+public class StringController {
     // Tellimused, Tooted, Kasutajad, Kategooriad, Pildigalerii pildid, Uudised
 
     // Ei saadeta staatilisi kohti
